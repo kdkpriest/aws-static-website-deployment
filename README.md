@@ -10,9 +10,9 @@ The project showcases practical cloud engineering skills, including Linux server
 
 ## Project Architecture
 
-> Insert your AWS architecture diagram here.
 
-![Architecture](images/aws-architecture.png)
+![Architecture](<img width="1423" height="1007" alt="AWS Single-Tier Website Architecture" src="https://github.com/user-attachments/assets/88a28788-9d39-44f5-986c-fd0c7075a3bd" />
+)
 
 ---
 
